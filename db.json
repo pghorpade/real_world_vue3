@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 999,
+      "category": "spirituality",
+      "title": "Meditation",
+      "description": "Being peaceful and contented with your self",
+      "location": "Orange County",
+      "date": "September 29, 2022",
+      "time": "7:00",
+      "organizer": "Robert Dave"
     }
   ]
 }
